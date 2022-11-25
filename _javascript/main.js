@@ -212,7 +212,7 @@ function animate(index, d) {
   marker[index].setPosition(p);
   updatePoly(index, d);
   /*
-    Optain Information From Service
+    Obtain Information From Service
     and Send to Queue Service
   */
   timerHandle[index] = setTimeout(
