@@ -1,0 +1,6 @@
+#map_canvas {
+    position: center !important;
+    height: 400px;
+    width: 100% !important;
+    overflow: visible !important;
+}
